@@ -1,5 +1,4 @@
 # music-genre-classification
 
 
-#To do:
-  Grab results, models, data prep work, and audio files from school computers
+Read the report, look at the presentation slides, or look at the results videos!
